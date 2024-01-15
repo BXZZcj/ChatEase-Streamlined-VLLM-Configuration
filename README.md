@@ -1,4 +1,4 @@
-My expectation for this project is that it will offer a simple way to configure a chatbot on your server.
+My expectation for this project is that it will offer a simple way to configure a chatbot on your server, one that supports RAG and multi-modality.
 
 Specifically, I envision this project demonstrating the following effect: A user can pull an implementation of some Large Language Model (LLM) from Hugging Face - including weights and configuration files - onto his server. Then, he can easily turn the LLM into a runnable chatbot with a tidy interface accessible via a browser, just by using this project for configuration.
 
